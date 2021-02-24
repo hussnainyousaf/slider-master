@@ -5,6 +5,7 @@ import original1 from './img/s1.jpg';
 import modified1 from './img/s2.jpg';
 import Slider from './components/Slider';
 import HowItWorks from './components/HowItWorks/index'
+import WaterFall from './components/WaterFallFee/index'
 
 const slider2 = {
   original: {
@@ -26,6 +27,7 @@ function App() {
   
     </div>
     <HowItWorks/>
+    <WaterFall/>
     </Router>
    
   );
