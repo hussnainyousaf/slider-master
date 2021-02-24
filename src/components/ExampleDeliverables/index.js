@@ -56,20 +56,21 @@ const Exampledeliverables =({slides})=> {
                     <div className={index === current ? 'slide active' : 'slide'} key={index}>
                        {index === current &&(<img  src={slide.image} alt='docs image' className="image"/>)}
                         
+            
 
                     </div>
                 )
 
                 
             })}
+         
             </section>
             </SliderImages>
-
+          
          
              </Wrapper2>
-            <Wrapper3>
-
-            </Wrapper3>
+      
+       
             
               </Hcontainer>  
             </>

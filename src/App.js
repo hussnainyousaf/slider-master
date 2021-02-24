@@ -8,6 +8,7 @@ import HowItWorks from './components/HowItWorks/index'
 import WaterFall from './components/WaterFallFee/index'
 import Exampledeliverables from './components/ExampleDeliverables/index'
 import imageData from './components/ExampleDeliverables/imagedata'
+import TruePlan from './components/TruePlan/index'
 const slider2 = {
   original: {
       url: original1,   
@@ -30,6 +31,7 @@ function App() {
     <HowItWorks/>
     <WaterFall/>
     <Exampledeliverables slides={imageData}/>
+    <TruePlan/>
     </Router>
    
   );

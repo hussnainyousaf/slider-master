@@ -8,7 +8,7 @@ justify-content:center;
 align-items:center;
 padding:0 30px;
 margin-top:1px;
-height:2500px;
+height:1800px;
 //position:relative;
 z-index:1
 `
@@ -48,7 +48,7 @@ text-align:center;
 margin-bottom:170px;
 //background-color:red;
 margin-left:340px;
-margin-top:-500px;
+margin-top:130px;
 //margin-top:18rem;/
 //margin-left:34rem;
 `
@@ -59,7 +59,7 @@ height:60px;
 width:895px;
 //bottom:2px;
 //top:2px;
-margin-top:-1725px;
+margin-top:-1100px;
 margin-right:1px;
 //background-color:red;
 border-radius: 10px;
@@ -95,7 +95,7 @@ display:flex;
 //flex-direction:column;
 align-items:center;
 margin-top:0px;
-margin-bottom:75rem;
+margin-bottom:35rem;
 
 //margin-bottom:50px;
 //border-style:block white;
@@ -170,7 +170,7 @@ export const H1= styled.h1`
 color:black;
 font-size:28px;
 font-family:'Raleway';
-margin-bottom:60rem;
+margin-bottom:24rem;
 margin-left:27rem;
 `
 
@@ -191,8 +191,10 @@ margin-top:0rem;
 `
 export const Wrapper3 = styled.div`
 height:100px;
-width:100px;
-//background-color:white;
-margin-top:42rem;
+width:200px;
+position: relative;
+background-color:red;
+//margin-right:50rem;
+
 
 `
