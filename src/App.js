@@ -7,7 +7,7 @@ import Slider from './components/Slider';
 import HowItWorks from './components/HowItWorks/index'
 import WaterFall from './components/WaterFallFee/index'
 import Exampledeliverables from './components/ExampleDeliverables/index'
-
+import imageData from './components/ExampleDeliverables/imagedata'
 const slider2 = {
   original: {
       url: original1,   
@@ -29,7 +29,7 @@ function App() {
     </div>
     <HowItWorks/>
     <WaterFall/>
-    <Exampledeliverables/>
+    <Exampledeliverables slides={imageData}/>
     </Router>
    
   );
