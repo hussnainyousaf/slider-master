@@ -48,7 +48,7 @@ text-align:center;
 margin-bottom:170px;
 //background-color:red;
 margin-left:340px;
-margin-top:130px;
+margin-top:100px;
 //margin-top:18rem;/
 //margin-left:34rem;
 `
@@ -59,7 +59,7 @@ height:60px;
 width:895px;
 //bottom:2px;
 //top:2px;
-margin-top:-1100px;
+margin-top:-1300px;
 margin-right:1px;
 //background-color:red;
 border-radius: 10px;
@@ -95,7 +95,7 @@ display:flex;
 //flex-direction:column;
 align-items:center;
 margin-top:0px;
-margin-bottom:35rem;
+margin-bottom:50rem;
 
 //margin-bottom:50px;
 //border-style:block white;
