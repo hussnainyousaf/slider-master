@@ -86,7 +86,7 @@ margin-left:780px;
 //max-width:1000px;
 max-width:100%;
 width:550px;
-height:350px;
+height:210px;
 //top:-45rem;
 //flex-basis:0;
 //flex-grow:1;
@@ -149,5 +149,39 @@ display:flex;
 //flex-direction:column;
 align-items:center;
 margin-top:90px;
+
+`
+
+export const Recaptcha = styled.div`
+
+margin-left:450px;
+
+max-width:100%;
+width:600px;
+height:100px;
+
+position:absolute;
+display:flex;
+//background-color:red;
+//flex-direction:column;
+align-items:center;
+margin-top:350px;
+
+`
+
+export const Button = styled.div`
+
+margin-left:610px;
+
+max-width:100%;
+width:300px;
+height:50px;
+
+position:absolute;
+display:flex;
+//background-color:yellow;
+//flex-direction:column;
+align-items:center;
+margin-top:500px;
 
 `

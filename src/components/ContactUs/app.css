@@ -158,3 +158,17 @@ textarea:focus {
     margin-top:-10px;
     border: 1px solid lightgray;
 }
+
+.captcha{
+  margin-top:75px;
+  margin-left: 160px;
+}
+
+.bttnn{
+  border-radius: 15px;
+  margin-left: 80px;
+  border: 1px solid;
+  height:39px;
+  width:130px;
+
+}
