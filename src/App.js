@@ -9,6 +9,7 @@ import WaterFall from './components/WaterFallFee/index'
 import Exampledeliverables from './components/ExampleDeliverables/index'
 import imageData from './components/ExampleDeliverables/imagedata'
 import TruePlan from './components/TruePlan/index'
+import ContactUs from './components/ContactUs/index'
 const slider2 = {
   original: {
       url: original1,   
@@ -32,6 +33,7 @@ function App() {
     <WaterFall/>
     <Exampledeliverables slides={imageData}/>
     <TruePlan/>
+    <ContactUs/>
     </Router>
    
   );
