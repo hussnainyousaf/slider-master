@@ -172,3 +172,21 @@ textarea:focus {
   width:130px;
 
 }
+
+.link{
+  margin-left:400px;
+}
+.insta{
+  margin-left:0px;
+}
+
+.fb{
+  margin-left:0px;
+}
+
+.para{
+  margin-bottom: 60px;
+  color: #fff;
+  opacity: .5;
+    font-size: 14px;
+}

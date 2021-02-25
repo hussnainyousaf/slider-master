@@ -63,6 +63,8 @@ max-width: 540px;
 padding-top:0;
 padding-bottom:60px;
 padding-right:500px;
+margin-right:120px;
+margin-bottom:20px;
 `
 
 export const Heading= styled.div`
